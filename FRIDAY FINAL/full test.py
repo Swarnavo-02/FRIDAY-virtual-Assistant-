@@ -58,7 +58,7 @@ if __name__ == "__main__":
                     print("Disconnecting...")
                     break
 
-                app_id = "QJUKAH-EJAVH9XP5X"
+                app_id = "API KEY"
                 client = wolframalpha.Client(app_id)
                 
                 speak("What do you want to know, sir?")
